@@ -1,1 +1,0 @@
-FROM yandex/clickhouse-server:21.3.2.5
